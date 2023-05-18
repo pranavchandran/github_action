@@ -7,4 +7,4 @@ jobs:
       - name: Print greeting
         run: echo "Hellp Pranav"
       - name: Print goodbye
-        run: exho "Done - Bye Pranav"
+        run: echo "Done - Bye Pranav"
